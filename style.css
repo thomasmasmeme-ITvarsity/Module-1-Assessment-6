@@ -1,0 +1,29 @@
+h1{
+    color: chartreuse;
+    font-family: sans-serif;
+}
+h2{
+    color: crimson;
+    font-family: monospace;
+}
+p{
+    color: blue;
+}
+nav{
+    font-family:cursive;
+}
+th
+{font-weight: 800;
+  background-color:#0AA748;
+  border-top-width: thick;
+    color: white;
+   
+}
+table{
+    font-family    : Helvetica, sans-sarif;
+      border-collapse: collapse;
+      border-width   :thick;
+      border-style   : solid;
+      border-color   :black
+           
+}
